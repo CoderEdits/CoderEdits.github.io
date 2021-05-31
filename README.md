@@ -8,9 +8,6 @@ Website for Coder Edits
 Website Link: https://coderedits.github.io/
 
 
-**Contributers**
-
-
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
