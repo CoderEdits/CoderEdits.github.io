@@ -2,7 +2,7 @@
 
 Website for Coder Edits
 
-A product made by Ilmopedia Kids
+A product now owned by Byte X
 
 
 Website Link: https://coderedits.github.io/
